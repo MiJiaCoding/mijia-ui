@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.my-btn {
+  /* background: greenyellow; */
+  border-radius: 20px !important; /*增加一下权重 防止覆盖*/
+}
